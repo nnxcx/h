@@ -12,7 +12,7 @@
         "pyrogram"
     ],
     "website": "https://t.me/Eivrr",
-    "repository": "https://github.com/rcrcue/hssso",
+    "repository": "https://github.com/nnxcx/h",
     "success_url": "https://t.me/Eivrr",
     "env": {
         "API_ID": {
@@ -86,7 +86,7 @@
         "UPSTREAM_REPO": {
             "description": "اتركه كما هوا",
             "required": true,
-            "value": "https://github.com/rcrcue/hssso"
+            "value": "https://github.com/nnxcx/h"
         }
     },
     "addons": [],
