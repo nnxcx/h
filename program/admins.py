@@ -118,7 +118,7 @@ async def pause(client, m: Message):
 
 
 @Client.on_message(
-    command(["امشي", f"resume@{BOT_USERNAME}", "/vresume"]) & other_filters
+    command(["استئناف", f"resume@{BOT_USERNAME}", "/vresume"]) & other_filters
 )
 @authorized_users_only
 async def resume(client, m: Message):
