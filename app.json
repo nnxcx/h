@@ -1,7 +1,7 @@
 {
     "name": "hso krem",
     "description": "Telegram bot for Streaming Video & Music trought the Telegram Group Video Chat, powered by PyTgCalls and Pyrogram",
-    "logo": "https://telegra.ph/file/97dbf00d9bcde5795ac34.jpg",
+    "logo": "https://telegra.ph/file/c69d85b244fa44e6e365d.jpg",
     "keywords": [
         "py-tgcalls",
         "telegram bot",
@@ -30,7 +30,7 @@
         "BOT_USERNAME": {
             "description": "قم بوضع يوزر بوتك بدون علامة @",
             "required": true,
-            "value": ""
+            "value": "MUOZK1BOT"
         },
         "ASSISTANT_NAME": {
             "description": "قم بوضع يوزر الحساب المساعد بدون علامة @",
@@ -44,22 +44,22 @@
         "SUDO_USERS": {
             "description": "قم بوضع ايدي المطور الاساسي",
             "required": true,
-            "value": ""
+            "value": "5221152360"
         },
         "GROUP_SUPPORT": {
             "description": "ضع هنا يوزر جروبك بدون علامة @",
             "required": true,
-            "value": ""
+            "value": "+87jP-uA_1UM5ODhi"
         },
         "UPDATES_CHANNEL": {
             "description": "ضع هنا يوزر قناتك بدون علامة @",
             "required": true,
-            "value": ""
+            "value": "I_D_S"
         },
         "OWNER_NAME": {
             "description": "ضع هنا يوزر المطور بدون علامة @",
             "required": true,
-            "value": ""
+            "value": "Z_Z_I"
         },
         "BOT_PHOTO": {
             "description": "ضع لينك صورة البوت ",
@@ -76,7 +76,7 @@
         "ALIVE_NAME": {
             "description": "ضع هنا اسم الحساب المساعد",
             "required": true,
-            "value": ""
+            "value": "Music"
         },
         "MONGODB_URL": {
             "description": "لا تغيره!",
