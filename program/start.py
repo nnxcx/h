@@ -80,7 +80,7 @@ async def start_(client: Client, message: Message):
                         "‹ قناة المطور › ", url=f"https://t.me/{GROUP_SUPPORT}"
                     ),
                     InlineKeyboardButton(
-                        "‹ لبوت للمطور ›", url=f"https://t.me/rcrcu"
+                        "‹ لبوت للمطور ›", url=f"https://t.me/Z_Z_I"
                     ),
                 ],
                 [
@@ -97,15 +97,15 @@ async def start_(client: Client, message: Message):
 @Client.on_message(command(["بوت", f"", f"", f"البوت"]) & filters.group & ~filters.edited)
 async def start(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/0c4352a3255a8ee09ce72.jpg",
-        caption=f""" [المطور الاساسي](https://t.me/rcrcu) \n\n""",
+        photo=f"https://telegra.ph/file/c69d85b244fa44e6e365d.jpg",
+        caption=f""" [المطور الاساسي](https://t.me/Z_Z_I) \n\n""",
         reply_markup=InlineKeyboardMarkup(
          [
             [
             ],
             [
                 InlineKeyboardButton(
-                    "Me bot Music", url=f"https://t.me/cncebot"
+                    "Me bot Music", url=f"https://t.me/MUOZK1BOT"
                 ),
             ],
             [
