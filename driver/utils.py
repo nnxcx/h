@@ -18,12 +18,12 @@ keyboard = InlineKeyboardMarkup(
     [
             [
                 InlineKeyboardButton(text="• الـقـائـمـه♪", callback_data="cbmenu"),
-                InlineKeyboardButton("• للتنصيب♪",url=f"https://t.me/rcrcu"),
+                InlineKeyboardButton("• المطور♪",url=f"https://t.me/Z_Z_I"),
             ],
             [
                 InlineKeyboardButton(
                         "♡اضـف الـبـوت لـمـجـمـوعـتـك♡",
-                        url=f"https://t.me/cncebot?startgroup=true"
+                        url=f"https://t.me/MUOZK1BOT?startgroup=true"
                 )
             ],
         ]
