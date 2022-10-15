@@ -82,7 +82,7 @@ async def skip(c: Client, m: Message):
 
 
 @Client.on_message(
-    command(["stop", f"stop@{BOT_USERNAME}", "/end", f"نهاء", "انهاء"])
+    command(["stop", f"stop@{BOT_USERNAME}", "/end", f"انهاء", "كافي"])
     & other_filters
 )
 @authorized_users_only
@@ -100,7 +100,7 @@ async def stop(client, m: Message):
 
 
 @Client.on_message(
-    command(["ايقاف", f"pause@{BOT_USERNAME}", "vpause"]) & other_filters
+    command(["اوكف", f"pause@{BOT_USERNAME}", "/vpause"]) & other_filters
 )
 @authorized_users_only
 async def pause(client, m: Message):
@@ -118,7 +118,7 @@ async def pause(client, m: Message):
 
 
 @Client.on_message(
-    command(["استئناف", f"resume@{BOT_USERNAME}", "/vresume"]) & other_filters
+    command(["امشي", f"resume@{BOT_USERNAME}", "/vresume"]) & other_filters
 )
 @authorized_users_only
 async def resume(client, m: Message):
